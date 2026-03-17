@@ -9,6 +9,8 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Cloud and Infrastructure](#cloud-and-infrastructure)
 - [Databases](#databases)
 - [Payments and Finance](#payments-and-finance)
+- [Blockchain and Crypto](#blockchain-and-crypto)
+- [Data and Web](#data-and-web)
 - [Communication and Email](#communication-and-email)
 - [Developer Tools](#developer-tools)
 - [Auth and Identity](#auth-and-identity)
@@ -18,6 +20,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [CI/CD](#cicd)
 - [Search](#search)
 - [Infrastructure as Code](#infrastructure-as-code)
+- [Productivity and Workspace](#productivity-and-workspace)
 - [Other](#other)
 - [Products Without CLIs](#products-without-clis)
 
@@ -51,6 +54,16 @@ The era of AI agents is here. Agents work best through structured, composable co
 ## Payments and Finance
 
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Test webhooks, tail API logs, trigger events, and CRUD any Stripe API object.
+
+## Blockchain and Crypto
+
+- [Kraken CLI](https://github.com/krakenfx/kraken-cli) - Open-source Rust CLI with 134 commands for spot trading, futures, staking, transfers, and paper trading with a built-in MCP server.
+- [Hyperliquid CLI](https://github.com/chrisling-dev/hyperliquid-cli) - Trade and manage positions on Hyperliquid DEX from the terminal.
+
+## Data and Web
+
+- [Nansen CLI](https://github.com/nansen-ai/nansen-cli) - Onchain data layer for AI agents with 30+ endpoints across 20+ chains and structured JSON output.
+- [Firecrawl CLI](https://github.com/mendableai/firecrawl) - Crawl and scrape web pages into clean markdown or structured data for LLMs.
 
 ## Communication and Email
 
@@ -110,12 +123,16 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Terraform CLI](https://github.com/hashicorp/terraform) - Manage cloud resources across providers with infrastructure as code.
 - [Pulumi CLI](https://github.com/pulumi/pulumi) - Infrastructure as code with real programming languages across cloud providers.
 
+## Productivity and Workspace
+
+- [Google Workspace CLI](https://github.com/googleworkspace/cli) - Interact with Google Workspace APIs including Drive, Calendar, Gmail, Sheets, and Docs from the terminal.
+
 ## Other
 
 - [Expo CLI](https://github.com/expo/expo) - Build, deploy, and update React Native apps with EAS builds and submissions.
 - [Prisma CLI](https://github.com/prisma/prisma) - Database toolkit for migrations, schema management, studio, and type generation.
 - [Cloudinary CLI](https://github.com/cloudinary/cloudinary-cli) - Upload, manage, and transform media assets on Cloudinary.
-- [Google Workspace CLI](https://github.com/googleworkspace/cli) - Interact with Google Workspace APIs including Drive, Calendar, Gmail, and Sheets.
+- [LangChain CLI](https://github.com/langchain-ai/langchain) - Scaffold LangChain projects, manage templates, and deploy LangServe apps.
 
 ## Products Without CLIs
 
