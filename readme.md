@@ -1,6 +1,4 @@
-# Awesome Product CLIs
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Product CLIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of command-line interfaces for SaaS products and services, making every product accessible to AI agents and developers from the terminal.
 
@@ -45,7 +43,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Supabase CLI](https://github.com/supabase/cli) - Run Supabase locally, manage migrations, deploy edge functions, and generate types.
 - [PlanetScale CLI](https://github.com/planetscale/cli) - Manage branches, deploy requests, and schema changes with a git-like workflow.
 - [Turso CLI](https://github.com/tursodatabase/turso-cli) - Manage databases, groups, and replicas on Turso libSQL edge database.
-- [Neon CLI](https://github.com/neondatabase/neonctl) - Manage Neon Serverless Postgres projects, branches, databases, and roles.
+- [Neon CLI](https://github.com/neondatabase/neonctl) - Manage Neon Serverless PostgreSQL projects, branches, databases, and roles.
 - [MongoDB Atlas CLI](https://github.com/mongodb/mongocli) - Manage Atlas clusters, backups, users, and alerts.
 - [Xata CLI](https://github.com/xataio/client-ts) - Manage Xata serverless database branches, schemas, migrations, and codegen.
 - [Convex CLI](https://github.com/get-convex/convex-js) - Manage Convex backend, deploy functions, manage data, and run dev server.
@@ -123,14 +121,14 @@ The era of AI agents is here. Agents work best through structured, composable co
 
 Notable SaaS products that do not have a CLI yet — opportunities for community-built CLIs.
 
-- **Paddle** - Payments platform, API-only.
-- **Lemon Squeezy** - Payments platform, API-only.
-- **Notion** - Productivity and docs, API and MCP only.
-- **Airtable** - Spreadsheet database, API-only.
-- **Linear** - Project management, API and MCP only.
-- **PostHog** - Product analytics, API-only.
-- **Mailgun** - Email service, no dedicated CLI.
-- **Anthropic** - AI platform, SDK only, no CLI binary.
+- [Paddle](https://developer.paddle.com/) - Payments platform, API-only.
+- [Lemon Squeezy](https://docs.lemonsqueezy.com/) - Payments platform, API-only.
+- [Notion](https://developers.notion.com/) - Productivity and docs, API and MCP only.
+- [Airtable](https://airtable.com/developers) - Spreadsheet database, API-only.
+- [Linear](https://developers.linear.app/) - Project management, API and MCP only.
+- [PostHog](https://posthog.com/docs/api) - Product analytics, API-only.
+- [Mailgun](https://documentation.mailgun.com/) - Email service, no dedicated CLI.
+- [Anthropic](https://docs.anthropic.com/) - AI platform, SDK only, no CLI binary.
 
 ## Contributing
 
