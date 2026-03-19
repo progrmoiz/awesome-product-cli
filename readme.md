@@ -100,6 +100,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Datadog CLI](https://github.com/DataDog/datadog-ci) - Upload sourcemaps, manage synthetics, trace CI pipelines, and upload test results.
 - [Grafana CLI](https://github.com/grafana/grafana) - Manage dashboards, data sources, plugins, and alerts.
 - [Axiom CLI](https://github.com/axiomhq/cli) - Manage datasets, run queries, and stream logs on Axiom observability platform.
+- [Langfuse CLI](https://github.com/langfuse/langfuse-cli) - Instrument AI applications, improve them by fetching traces and updating prompts. 
 
 ## AI and ML
 
