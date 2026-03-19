@@ -64,6 +64,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 
 - [Nansen CLI](https://github.com/nansen-ai/nansen-cli) - Onchain data layer for AI agents with 30+ endpoints across 20+ chains and structured JSON output.
 - [Firecrawl CLI](https://github.com/mendableai/firecrawl) - Crawl and scrape web pages into clean markdown or structured data for LLMs.
+- [Shovels CLI](https://github.com/ShovelsAI/shovels-cli) - Query building permit and contractor data across the US for AI agents and developers.
 
 ## Communication and Email
 
@@ -77,6 +78,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [GitHub CLI](https://github.com/cli/cli) - Pull requests, issues, repos, releases, actions, and codespaces with field-level JSON selection.
 - [GitLab CLI](https://github.com/gitlab-org/cli) - Merge requests, issues, CI/CD pipelines, and repository management.
 - [Sentry CLI](https://github.com/getsentry/sentry-cli) - Upload sourcemaps and debug symbols, manage releases, and view issues.
+- [Hatchet CLI](https://github.com/hatchet-dev/hatchet) - Manage background tasks, workflows, and agent runs on Hatchet from the terminal.
 - [Doppler CLI](https://github.com/DopplerHQ/cli) - Manage secrets, inject environment variables into processes, and manage projects.
 - [HashiCorp Vault CLI](https://github.com/hashicorp/vault) - Manage secrets, encryption, and identity with read and write operations.
 - [Shopify CLI](https://github.com/Shopify/cli) - Build Shopify apps, themes, and Hydrogen storefronts.
@@ -127,6 +129,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 ## Productivity and Workspace
 
 - [Google Workspace CLI](https://github.com/googleworkspace/cli) - Interact with Google Workspace APIs including Drive, Calendar, Gmail, Sheets, and Docs from the terminal.
+- [Readwise CLI](https://github.com/readwiseio/readwise-cli) - Access saved highlights, articles, books, and notes from the terminal for humans and AI agents.
 
 ## Other
 
@@ -134,6 +137,8 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Prisma CLI](https://github.com/prisma/prisma) - Database toolkit for migrations, schema management, studio, and type generation.
 - [Cloudinary CLI](https://github.com/cloudinary/cloudinary-cli) - Upload, manage, and transform media assets on Cloudinary.
 - [LangChain CLI](https://github.com/langchain-ai/langchain) - Scaffold LangChain projects, manage templates, and deploy LangServe apps.
+- [Spotify CLI](https://github.com/brianstrauch/spotify-cli) - Control Spotify playback, manage playlists, and queue tracks from the terminal.
+- [Apple Search Ads CLI](https://github.com/cameronehrlich/apple-search-ads-cli) - Manage Apple Search Ads campaigns, keywords, and reporting from the terminal.
 
 ## Products Without CLIs
 
