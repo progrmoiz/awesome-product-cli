@@ -109,6 +109,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [OpenAI CLI](https://github.com/openai/openai-python) - Make API calls, manage fine-tuning jobs, and upload files from the terminal.
 - [Replicate CLI](https://github.com/replicate/cli) - Run models, create predictions, stream output, and manage trainings.
 - [Hugging Face CLI](https://github.com/huggingface/huggingface_hub) - Download and upload models and datasets, manage repos, and run inference.
+- [ElevenLabs CLI](https://github.com/elevenlabs/cli) - Build and manage multimodal AI agents as code with templates, push/pull sync, and branch support.
 
 ## CI/CD
 
