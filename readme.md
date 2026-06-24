@@ -96,6 +96,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Contentful CLI](https://github.com/contentful/contentful-cli) - Manage spaces, export and import content, run migrations, and manage extensions.
 - [Strapi CLI](https://github.com/strapi/strapi) - Generate projects, content types, APIs, and plugins.
 - [Payload CLI](https://github.com/payloadcms/payload) - Project scaffolding and generation for Payload CMS.
+- [UnfoldCMS Artisan CLI](https://github.com/hpakdaman/unfoldcms) - Deploy, migrate, export builds, publish posts, and manage a self-hosted Laravel CMS from the command line.
 
 ## Monitoring and Observability
 
