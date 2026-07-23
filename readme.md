@@ -57,6 +57,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 
 ## Blockchain and Crypto
 
+- [Formo CLI](https://github.com/getformo/cli) - Query product and onchain analytics, wallet profiles, and send events with structured output for [Formo](https://formo.so).
 - [Kraken CLI](https://github.com/krakenfx/kraken-cli) - Open-source Rust CLI with 134 commands for spot trading, futures, staking, transfers, and paper trading with a built-in MCP server.
 - [Hyperliquid CLI](https://github.com/chrisling-dev/hyperliquid-cli) - Trade and manage positions on Hyperliquid DEX from the terminal.
 
