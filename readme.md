@@ -110,6 +110,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Replicate CLI](https://github.com/replicate/cli) - Run models, create predictions, stream output, and manage trainings.
 - [Hugging Face CLI](https://github.com/huggingface/huggingface_hub) - Download and upload models and datasets, manage repos, and run inference.
 - [ElevenLabs CLI](https://github.com/elevenlabs/cli) - Build and manage multimodal AI agents as code with templates, push/pull sync, and branch support.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Connect 17+ AI agent clients to 2,000+ hosted tools and 200+ models through an MCP bridge, with structured client catalog output.
 
 ## CI/CD
 
