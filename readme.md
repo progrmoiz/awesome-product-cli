@@ -83,6 +83,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [HashiCorp Vault CLI](https://github.com/hashicorp/vault) - Manage secrets, encryption, and identity with read and write operations.
 - [Shopify CLI](https://github.com/Shopify/cli) - Build Shopify apps, themes, and Hydrogen storefronts.
 - [1Password CLI](https://developer.1password.com/docs/cli/) - Manage vaults, items, and secrets with an SSH agent.
+- [foac](https://github.com/alephic-ai/foac) - One binary for Linear, GitHub, Jira, Confluence, Slack, Sentry, Vercel, and Neon, with JSON on stdout for agents and tables at a TTY.
 
 ## Auth and Identity
 
