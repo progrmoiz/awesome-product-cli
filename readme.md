@@ -53,6 +53,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 
 ## Payments and Finance
 
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Test webhooks, tail API logs, trigger events, and CRUD any Stripe API object.
 
 ## Blockchain and Crypto
