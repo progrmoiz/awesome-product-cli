@@ -110,6 +110,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Replicate CLI](https://github.com/replicate/cli) - Run models, create predictions, stream output, and manage trainings.
 - [Hugging Face CLI](https://github.com/huggingface/huggingface_hub) - Download and upload models and datasets, manage repos, and run inference.
 - [ElevenLabs CLI](https://github.com/elevenlabs/cli) - Build and manage multimodal AI agents as code with templates, push/pull sync, and branch support.
+- [HoneyVid CLI](https://github.com/HoneyVid/cli) - Make AI videos and images from the terminal: put a photo into trending video templates or generate with Kling, Veo and Seedance, with JSON output and installable agent skills.
 
 ## CI/CD
 
