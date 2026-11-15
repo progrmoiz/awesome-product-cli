@@ -110,6 +110,7 @@ The era of AI agents is here. Agents work best through structured, composable co
 - [Replicate CLI](https://github.com/replicate/cli) - Run models, create predictions, stream output, and manage trainings.
 - [Hugging Face CLI](https://github.com/huggingface/huggingface_hub) - Download and upload models and datasets, manage repos, and run inference.
 - [ElevenLabs CLI](https://github.com/elevenlabs/cli) - Build and manage multimodal AI agents as code with templates, push/pull sync, and branch support.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public MCP server and CLI-friendly venue data endpoint for 1,700+ US and Canadian live-music venues.
 
 ## CI/CD
 
